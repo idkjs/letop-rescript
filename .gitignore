@@ -1,0 +1,14 @@
+.cache
+.DS_Store
+*.swp
+.merlin
+.parcel-cache
+dist/
+lib/
+node_modules/
+*.bs.js
+esy.lock/
+_esy
+_build/
+.melange.eobjs
+yarn.lock

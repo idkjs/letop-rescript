@@ -1,0 +1,27 @@
+{
+  "name": "story-engine",
+  "reason": {
+    "react-jsx": 3
+  },
+
+  "bsc-flags": [ "-bs-g" ],
+  "sources": [
+    {
+      "dir": "src",
+      "subdirs": true
+    }
+  ],
+  "package-specs": [
+    {
+      "module": "commonjs",
+      "in-source": true
+    }
+  ],
+  "suffix": ".bs.js",
+  "bs-dependencies": [ "reason-react", "vec" ],
+  "bs-dev-dependencies": [],
+  "warnings": {
+    "number": "+A-48-42-44-45",
+    "error": "+A-3-44-102"
+  }
+}
