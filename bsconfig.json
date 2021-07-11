@@ -1,5 +1,5 @@
 {
-  "name": "story-engine",
+  "name": "demo",
   "reason": {
     "react-jsx": 3
   },
@@ -18,7 +18,7 @@
     }
   ],
   "suffix": ".bs.js",
-  "bs-dependencies": [ "reason-react", "vec" ],
+  "bs-dependencies": [ ],
   "bs-dev-dependencies": [],
   "warnings": {
     "number": "+A-48-42-44-45",

@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "@opam/ppxlib": "*",
     "@opam/ocaml-lsp-server": "*",
     "melange": "melange-re/melange",
     "ocaml": "4.12.x"

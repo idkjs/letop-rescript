@@ -1,6 +1,6 @@
 {
 	"ocaml.sandbox": {
 		"kind": "esy",
-		"root": "${workspaceFolder:letop-bs-example}"
+		"root": "${workspaceFolder:letop-rescript}"
 	}
 }
